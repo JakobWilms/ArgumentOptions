@@ -1,0 +1,6 @@
+name: ManHunt
+version: ${project.version}
+main: tk.picraftmc.manhunt.ManHunt
+api-version: 1.16
+authors: [ JakobWilms ]
+description: ManHunt
