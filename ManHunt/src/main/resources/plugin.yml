@@ -4,3 +4,11 @@ main: tk.picraftmc.manhunt.ManHunt
 api-version: 1.16
 authors: [ JakobWilms ]
 description: ManHunt
+
+commands:
+  reset:
+    description: RESET!!!
+    usage: /reset
+  start:
+    description: START!!!
+    usage: /start
