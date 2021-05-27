@@ -2,8 +2,6 @@ package io.github.jakobwilms.argumentoptions;
 
 import org.jetbrains.annotations.NotNull;
 
-import java.util.Arrays;
-
 public class OptionExecutor implements OptionConverter<OptionFinisher> {
 
     private final Option[] options;

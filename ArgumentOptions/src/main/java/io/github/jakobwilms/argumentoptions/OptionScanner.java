@@ -11,6 +11,9 @@ import java.util.List;
  */
 public class OptionScanner implements OptionConverter<OptionExecutor>{
 
+    /**
+     * A List of all given options
+     */
     private final List<Option> options;
     @Nullable
     private final HelpMessage helpMessage;

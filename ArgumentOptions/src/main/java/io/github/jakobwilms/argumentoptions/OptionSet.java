@@ -1,5 +1,8 @@
 package io.github.jakobwilms.argumentoptions;
 
+/**
+ * With this class, you can specify option that should be used, all other options will be ignored
+ */
 public class OptionSet {
 
     private final String[] get;

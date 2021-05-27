@@ -5,6 +5,9 @@ import org.jetbrains.annotations.Nullable;
 
 import java.util.Objects;
 
+/**
+ * An Option - Containing all information required for further processing
+ */
 public class Option {
 
     @NotNull
